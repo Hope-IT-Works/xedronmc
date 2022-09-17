@@ -1,2 +1,2 @@
 # xedronmc
-Performance oriented modpack
+performance oriented modpack
